@@ -13,6 +13,7 @@ namespace anti_quest
 		    {
 			    InitPatch();
 			    MelonLogger.Msg("[Anti Quest] Loaded Anti-Quest Mod, Enjoy! (https://github.com/xDecider)");
+			    MelonLogger.Msg("My Balls itch (fuck quest users)")
 		    }
 		    catch
 		    {
